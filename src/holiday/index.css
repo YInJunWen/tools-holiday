@@ -1,7 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+
 .form {
   padding-top: 100px;
 }
 
+h1 {
+  text-align: center;
+}
+
 #cvs {
-  padding: 50px;
+  padding: 0 30px;
 }
